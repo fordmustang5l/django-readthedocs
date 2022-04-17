@@ -1,9 +1,8 @@
-Django Docs...for me
+My Django Docs
 ===================================
 
-**Lumache** My attempt at django docs... *simplified?*.
 
-:doc:`request` (Middleware) -> :doc:`urls` -> :doc:`views` 
+:doc:`request` -> :doc:`urls` -> :doc:`views` 
 
 
 
