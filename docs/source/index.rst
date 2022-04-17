@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
+Django Docs...for me
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Lumache** My attempt at django docs... *simplified?*.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+:doc:`request` (Middleware) -> :doc:`urls` -> :doc:`views` 
+
+
 
 .. note::
 
@@ -20,3 +18,6 @@ Contents
 
    usage
    api
+   request
+   urls
+   views
