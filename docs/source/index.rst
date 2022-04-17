@@ -2,7 +2,9 @@ It Was The Django Docs For Me
 ===================================
 
 
-:doc:`Request </request>` -> :doc:`URL </urls>` -> :doc:`Views </views>` 
+:doc:`./requests/index`
+:doc:`URL </urls>`
+:doc:`Views </views>` 
 
 
 
