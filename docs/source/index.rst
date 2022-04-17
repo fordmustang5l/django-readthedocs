@@ -1,8 +1,8 @@
-My Django Docs
+It Was The Django Docs For Me
 ===================================
 
 
-:doc:`request` -> :doc:`urls` -> :doc:`views` 
+:doc:`Request </request>` -> :doc:`URL </urls>` -> :doc:`Views </views>` 
 
 
 
